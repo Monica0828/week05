@@ -1,7 +1,0 @@
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\bin\Debug\CarStore.exe.config
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\bin\Debug\CarStore.exe
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\bin\Debug\CarStore.pdb
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\obj\Debug\CarStore.csprojAssemblyReference.cache
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\obj\Debug\CarStore.csproj.CoreCompileInputs.cache
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\obj\Debug\CarStore.exe
-C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\CarStore\CarStore\obj\Debug\CarStore.pdb
