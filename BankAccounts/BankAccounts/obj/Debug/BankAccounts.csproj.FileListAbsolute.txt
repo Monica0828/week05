@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\obj\Debug\BankAccounts.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\BankAccounts\BankAccounts\obj\Debug\BankAccounts.csprojAssemblyReference.cache

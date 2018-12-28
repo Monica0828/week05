@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week5\Shapes\Shapes\obj\Debug\Shapes.pdb
